@@ -1,0 +1,19 @@
+{
+  "name": "end2endtestsuite",
+  "version": "1.0.0",
+  "description": "scaffolding of protractor and cucumber integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dxiong89/end2endTestSuite.git"
+  },
+  "author": "Danny Xiong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dxiong89/end2endTestSuite/issues"
+  },
+  "homepage": "https://github.com/dxiong89/end2endTestSuite#readme"
+}
